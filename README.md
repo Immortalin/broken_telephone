@@ -1,6 +1,6 @@
 # Broken Telephone (WIP)
 
-This is a simulation for exploring the effects of noise on neural network communication models and to visualise the effects of noisy channels on text. 
+This is a simulation for exploring the effects of noise on neural network communication models and to visualise the effects of piping encoded text through noisy channels. 
 
 - install [Poetry](https://python-poetry.org/) and download the appropriate version of [PyTorch](https://pytorch.org/get-started/locally/)
 ```
@@ -12,13 +12,12 @@ streamlit main.py
 ## Attributions and Citations
 
 
-### CommPy et al.
+### [CommPy et al.](https://github.com/veeresht/CommPy)
 ```
 V. Taranalli, B. Trotobas, and contributors, “CommPy: Digital Communication with Python”. [Online]. Available: github.com/veeresht/CommPy
 ```
-[veeresht/CommPy](https://github.com/veeresht/CommPy)
 
-### Hugging Face et al.
+### [Hugging Face et al.](https://github.com/huggingface/transformers)
 ```bibtex
 @inproceedings{wolf-etal-2020-transformers,
     title = "Transformers: State-of-the-Art Natural Language Processing",
